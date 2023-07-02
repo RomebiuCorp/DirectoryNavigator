@@ -1,2 +1,2 @@
 # DirectoryNavigator
-A simple directory navigator.
+A simple directory navigator written in PHP.
