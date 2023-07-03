@@ -1,4 +1,8 @@
 # DirectoryNavigator
+[简体中文](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README-CN.MD)
+|
+[English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.MD)
+<br>
 DirectoryNavigator 是一个基于 PHP 的轻量级目录导航系统，允许你为目录创建一个简单直观的导航界面。
 
 ### 特点
