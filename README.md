@@ -1,7 +1,7 @@
 # DirectoryNavigator
-[简体中文](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README-CN.MD)
+[简体中文](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README-CN.md)
 |
-[English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.MD)
+[English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.md)
 <br>
 DirectoryNavigator is a lightweight PHP-based directory navigation system that allows you to create a simple and intuitive navigation interface for your directories.
 
