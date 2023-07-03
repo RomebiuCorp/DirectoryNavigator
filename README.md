@@ -18,7 +18,7 @@ DirectoryNavigator is a lightweight PHP-based directory navigation system that a
 
 ### Installation
 
-1. Clone the repository or download the ZIP file.
+1. Download the latest release from the Releases section.
 2. Upload the files to your web server.
 3. Set the appropriate file permissions for the directories and files (e.g., make sure they are readable by the web server).
 
