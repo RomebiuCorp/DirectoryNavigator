@@ -1,3 +1,4 @@
+# DirectoryNavigator
 DirectoryNavigator is a lightweight PHP-based directory navigation system that allows you to create a simple and intuitive navigation interface for your directories.
 
 ### Features
