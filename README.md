@@ -31,7 +31,7 @@ DirectoryNavigator is a lightweight PHP-based directory navigation system that a
 ### Customization
 
 - Modify the `config.php` file to adjust the configuration settings.
-- Customize the CSS styles in the style.css file to match your desired design.
+- Customize the CSS styles in the `style.css` file to match your desired design.
 
 ### License
 
