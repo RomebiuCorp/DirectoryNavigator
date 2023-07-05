@@ -7,13 +7,13 @@ DirectoryNavigator 是一个基于 PHP 的轻量级目录导航系统，允许�
 
 ### 特点
 
-- 列出并浏览目录和子目录；  
+- 列出并浏览目录；  
 - 自动为每个目录生成链接；  
 - 根据 index.txt 文件显示自定义目录标题。
 
 ### 要求
 
-- PHP（版本 5.3.0 及以上）  
+- PHP（版本 5.3.0 及以上，建议使用最新版本的 PHP）  
 - Web 服务器（Apache、Nginx 等）
 
 ### 安装
@@ -43,4 +43,4 @@ DirectoryNavigator 是一个基于 PHP 的轻量级目录导航系统，允许�
 
 ### 致谢
 
-DirectoryNavigator 的灵感来自于在 PHP 中浏览目录和子目录的简单高效的需求。
+DirectoryNavigator 的设计灵感来自于使用 PHP 编写的目录导航系统所需的简单而高效的方式。
