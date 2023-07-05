@@ -7,13 +7,13 @@ DirectoryNavigator is a lightweight PHP-based directory navigation system that a
 
 ### Features
 
-- List and navigate through directories and subdirectories.
+- List and navigate through directories.
 - Automatically generate links to each directory.
 - Display custom titles for directories based on an index.txt file.
 
 ### Requirements
 
-- PHP (version 5.3.0 or higher)
+- PHP (version 5.3.0 or higher, it is recommended to use the latest version of PHP)
 - Web server (Apache, Nginx, etc.)
 
 ### Installation
@@ -43,4 +43,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ### Acknowledgments
 
-DirectoryNavigator was inspired by the need for a simple and efficient way to navigate directories and subdirectories in PHP.
+The design inspiration for DirectoryNavigator came from a simple and efficient approach required for a directory navigation system written in PHP.
