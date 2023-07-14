@@ -3,6 +3,13 @@
 |
 [English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.md)
 <br>
+<br>
+![Romebiu WebDev Logo](https://s2.loli.net/2023/07/14/sLWQaUcNxuFDZP9.png)
+*© 2023 Romebiu WebDev 版权所有*
+<br>
+*Written by Flen Plnens.*
+<br>
+<br>
 DirectoryNavigator 是一个基于 PHP 的轻量级目录导航系统，允许你为目录创建一个简单直观的导航界面。
 
 ### 特点
