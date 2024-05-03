@@ -4,6 +4,8 @@
 [English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.md)
 <br>
 <br>
+!(https://img.shields.io/github/v/release/Romebiu-WebDev/DirectoryNavigator?label=Version&style=flat-square&color=#18D518)
+<br>
 *© 2022 - 2024 Romebiu Corporation All Rights Reserved.*
 <br>
 *Written by Flen Plnens.*
