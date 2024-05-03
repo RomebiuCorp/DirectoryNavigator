@@ -4,8 +4,7 @@
 [English](https://github.com/Flen-Plnens/DirectoryNavigator/blob/main/README.md)
 <br>
 <br>
-![Romebiu WebDev Logo](https://s2.loli.net/2023/07/14/sLWQaUcNxuFDZP9.png)
-*© 2023 Romebiu WebDev All Rights Reserved.*
+*© 2022 - 2024 Romebiu Corporation All Rights Reserved.*
 <br>
 *Written by Flen Plnens.*
 <br>
