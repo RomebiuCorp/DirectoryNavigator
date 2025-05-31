@@ -2,7 +2,7 @@
 ![Image](https://img.shields.io/github/v/release/Romebiu-WebDev/DirectoryNavigator?label=Version&style=flat-square&color=#18D518)
 <br>
 <br>
-*© 2022 - 2024 Romebiu Corporation All Rights Reserved.*
+*© 2022 - 2025 Romebiu Corporation All Rights Reserved.*
 <br>
 *Written by Flen Plnens.*
 <br>
